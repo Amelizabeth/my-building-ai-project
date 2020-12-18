@@ -9,8 +9,8 @@ Education is the key to improve our lives and our communities. Everyone has to g
 ## Background
 
 Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
-The problem of lack in education is very frequent overall in the world and specially in countries which are morea ffected from the global warming and climate change.
-Providng people basic education and knowledge will make them able to solutions to the problems 
+The problem of lack in education is very frequent overall in the world and specially in countries which are more affected from the global warming and climate change.
+Providng people basic education and knowledge will make them able to find solutions to the problems 
 The big differences by education in poor and rich countries is m
 
 
