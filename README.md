@@ -1,19 +1,23 @@
-# my-building-ai-project
+# education for everyone
 Building AI Course project
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
-
+The project "Education for everyone" has the expectation to allow everyone who is living in very far places and without or with very less infrastructure, specially educational infrastructure, to get the chance of a school education.
+Education is the key to improve our lives and our communities. Everyone has to get this chance. 
 
 ## Background
 
 Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
+The problem of lack in education is very frequent overall in the world and specially in countries which are morea ffected from the global warming and climate change.
+Providng people basic education and knowledge will make them able to solutions to the problems 
+The big differences by education in poor and rich countries is m
+
 
 This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+* In small villages far from the big cities the infrastructure is missing or very poor (schools, whiteboard, tv, laptops, other gadgets)
+* Studens have no laptop, mobile and several times there are not internet signal.
+* 
 
 
 ## How is it used?
