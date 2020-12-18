@@ -1,5 +1,5 @@
 # my-building-ai-project
-Building AI Course first project
+Building AI Course project
 
 ## Summary
 
