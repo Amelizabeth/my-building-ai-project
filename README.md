@@ -1,4 +1,4 @@
-# education for everyone
+# Education for Everyone
 Building AI Course project
 
 ## Summary
@@ -30,8 +30,7 @@ Describe the process of using the solution. In what kind situations is the solut
 * School education should be provided in the local language.
 * Lessons are prepared by theachers but corrections can be done with help from artificial intelligence (write, read) specially for those cases where interaction teacher-student is not possible.
 
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
+
 ![Cat](https://www.elcomercio.com/files/article_main/uploads/2020/07/29/5f2182ff0619b.jpeg)
 
 This is how you create code examples:
