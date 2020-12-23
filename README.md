@@ -34,25 +34,14 @@ Facts:
 ![Cat](https://www.elcomercio.com/files/article_main/uploads/2020/07/29/5f2182ff0619b.jpeg)
 
 
-## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
-Educational content need to be strictly proof to avoid wrong content (racism, politic tendencies, religios tendencies, etc)
-Education for everyone aims to provide basic education for everyone but is not recognized as offical school education. 
+* Educational content need to be strictly proof to avoid wrong content (racism, politic tendencies, religios tendencies, etc)
+* Education for everyone aims to provide basic education for everyone but is not a offical school education. 
 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
 Education for eveyone should get recognized as official school education.
 
 
