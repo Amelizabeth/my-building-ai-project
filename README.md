@@ -4,32 +4,35 @@ Building AI Course project
 ## Summary
 
 The project "Education for Everyone" has the expectation to allow everyone, specially the ones who are living in places far from big cities and without or with very less infrastructure to get the chance of a school education.
-Education is the key to improve our lives and our communities. Everyone should get access to education. 
 
 ## Background
 
 The problem of lack education is very frequent all over the world.
-Everyone should get access to education in order to be able to improve their lives and the community where they are living.
-Providng people basic education (read, write) will make possible the building of a etter world.  
+Providing people education will make possible to improve life and the communities.
 
-
-This is how you make a list, if you need one:
-* In small villages far from the big cities infrastructure is missing or very poor (schools, chairs, whiteboard, tv, laptops, other gadgets)
-* School children in those poor areas haven't laptops, mobile phones or internet. 
-* Often there are no teachers in those small villages. 
-* School education should be provided in the local language.
+Facts: 
+* In small villages far from the big cities infrastructure is very poor or completely missing (schools, chairs, whiteboard, tv, laptops, other gadgets)
+* Only few school children in those areas have access to laptops, mobile phones or internet. 
+* The Internet signal is very poor or not available at all. 
+* Often there are no teachers in those small far villages. 
+* The Corona Virus makes the situation worst since children whithout accesst to internet, laptops, mobile phones, etc leave the school and go to work.
 
 
 ## How is it used?
 
 Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
 
+* Creation of a worldwide educational platform (freeware).
+* Everyone who can support by the creation is welcome (Developers, programmers, teachers, etc).
+* Creation of an educational programm. 
+* Lesson and educational material stay available for everyone.
+* The worldwide educational platform should allow the teachers to create easily and for free school lessons.  
+* School education should be provided in the local language.
+* Lessons are prepared by theachers but corrections can be done with help from artificial intelligence (write, read) specially for those cases where interaction teacher-student is not possible.
+
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
 ![Cat](https://www.elcomercio.com/files/article_main/uploads/2020/07/29/5f2182ff0619b.jpeg)
-
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://www.elcomercio.com/files/article_main/uploads/2020/07/29/5f2182ff0619b.jpeg" width="300">
 
 This is how you create code examples:
 ```
@@ -63,6 +66,7 @@ If you need to use links, here's an example:
 ## Challenges
 
 What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+
 
 ## What next?
 
