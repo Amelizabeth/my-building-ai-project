@@ -3,21 +3,21 @@ Building AI Course project
 
 ## Summary
 
-The project "Education for everyone" has the expectation to allow everyone who is living in very far places and without or with very less infrastructure, specially educational infrastructure, to get the chance of a school education.
-Education is the key to improve our lives and our communities. Everyone has to get this chance. 
+The project "Education for Everyone" has the expectation to allow everyone, specially the ones who are living in places far from big cities and without or with very less infrastructure to get the chance of a school education.
+Education is the key to improve our lives and our communities. Everyone should get access to education. 
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
-The problem of lack in education is very frequent overall in the world and specially in countries which are more affected from the global warming and climate change.
-Providng people basic education and knowledge will make them able to find solutions to the problems 
-The big differences by education in poor and rich countries is m
+The problem of lack education is very frequent all over the world.
+Everyone should get access to education in order to be able to improve their lives and the community where they are living.
+Providng people basic education (read, write) will make possible the building of a etter world.  
 
 
 This is how you make a list, if you need one:
-* In small villages far from the big cities the infrastructure is missing or very poor (schools, whiteboard, tv, laptops, other gadgets)
-* Studens have no laptop, mobile and several times there are not internet signal.
-* 
+* In small villages far from the big cities infrastructure is missing or very poor (schools, chairs, whiteboard, tv, laptops, other gadgets)
+* School children in those poor areas haven't laptops, mobile phones or internet. 
+* Often there are no teachers in those small villages. 
+* School education should be provided in the local language.
 
 
 ## How is it used?
@@ -74,4 +74,4 @@ How could your project grow and become something even more? What kind of skills,
 * list here the sources of inspiration 
 * do not use code, images, data etc. from others without permission
 * when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
+  <br>For example: [Alumnos peruanos suben a un cerro para recibir clases virtuales] (https://imagenes.expreso.ec/files/image_700_402/uploads/2020/07/25/5f1ca0e532848.jpeg)/ [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
